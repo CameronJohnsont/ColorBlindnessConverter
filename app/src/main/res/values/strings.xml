@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Color Blind MyPhoto</string>
+  <string name="take_picture">Take picture</string>
+  <string name="camera">Back to Camera</string>
+
+</resources>
